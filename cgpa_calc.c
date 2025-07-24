@@ -45,7 +45,7 @@ int main()
 	}
 
 	struct cgpa sub[sub_num];
-	printf("Enter the grade scored and their credits (e.g., 4):\n");
+	printf("Enter the grade scored (like.. aa,ab,cd,etc..) and their credits (e.g., 4):\n");
 	for (i = 1; i <= sub_num; i++)
 	{
 		printf("%d. ", i);
