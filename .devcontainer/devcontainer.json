@@ -1,0 +1,10 @@
+{
+  "name": "C Development Environment",
+  "image": "mcr.microsoft.com/devcontainers/cpp",
+  "postCreateCommand": "make",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-vscode.cpptools"]
+    }
+  }
+}
