@@ -6,15 +6,15 @@ A simple program written in C to calculate CGPA based on subject grades and cred
 
 ## 🌐 Run in GitHub Codespaces
 
-[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=himaenshuu/cgpa_calculator&devcontainer_path=.devcontainer/devcontainer.json)
+[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&repo=himaenshuu/cgpa_calculator&devcontainer_path=.devcontainer/devcontainer.json)
 
 ---
 
 ## 🧮 How to Use
 
-1. Enter number of subjects  
-2. Enter grades and credits (e.g. `bc 4`)  
-3. Program calculates and shows CGPA  
+1. Enter number of subjects
+2. Enter grades and credits (e.g. `bc 4`)
+3. Program calculates and shows CGPA
 
 ---
 
@@ -23,6 +23,3 @@ A simple program written in C to calculate CGPA based on subject grades and cred
 ```bash
 make
 ./cgpa
-
-
-## 2nd sem dump
