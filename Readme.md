@@ -23,3 +23,6 @@ A simple program written in C to calculate CGPA based on subject grades and cred
 ```bash
 make
 ./cgpa
+
+
+## 2nd sem dump
