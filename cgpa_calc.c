@@ -1,5 +1,3 @@
-// CGPA Calculator //
-
 #include <stdio.h>
 #include <string.h>
 
